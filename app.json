@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.vivek_v_vijayan.spotify"
     },
     "web": {
       "favicon": "./assets/favicon.png"

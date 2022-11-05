@@ -1,0 +1,17 @@
+export const Images = {
+    Icon:require("../../assets/spotify_green.png"),
+    bell:require('../../assets/bell(1).png'),
+    clock:require('../../assets/history(1).png'),
+    settings:require('../../assets/setting(2).png'),
+    homeOutlined:require('../../assets/hut(2).png'),
+    homeFilled:require('../../assets/hut(1).png'),
+    search:require('../../assets/search-interface-symbol.png'),
+    collecton:require('../../assets/collection.png'),
+    spotify:require('../../assets/spotify.png'),
+    backArrow:require('../../assets/arrow.png'),
+    dots:require('../../assets/dots.png'),
+    heartFill:require('../../assets/heartFilled.png'),
+    heartOutline:require('../../assets/heartOutline.png'),
+    play:require('../../assets/play.png'),
+    next:require('../../assets/next.png'),
+}
